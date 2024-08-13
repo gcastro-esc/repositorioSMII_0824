@@ -14,8 +14,14 @@ git branch -M main
 git push -u origin main
 
 
-Agregando:
+Agregando: (Selectivo)
 
 git add <nombrearchivo>		Preparacion
 git commit -m ""			
 git push -u origin main
+
+(General)
+git add .
+git commit -m ""
+
+Resumen completado
