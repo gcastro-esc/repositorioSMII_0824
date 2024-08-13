@@ -3,4 +3,7 @@ Párrafo con contenido para el archivo README
 
 
 # Descripción
-Muestra como actualizar este repositorio
+Muestra como actualizar este repositorio y mantener contenido privado
+
+## Referencias
+Git. (n.d.). Git: Fast version control. https://git-scm.com
