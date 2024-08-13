@@ -1,6 +1,6 @@
 https://github.com/gcastro-esc/repositorioSMII_0824.git
 
-echo "# repositorioSMII_0824" >> README.md
+echo "# Repositorio SubModulo II - Agosto 2024" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
@@ -11,4 +11,11 @@ git push -u origin main
 
 git remote add origin https://github.com/gcastro-esc/repositorioSMII_0824.git
 git branch -M main
+git push -u origin main
+
+
+Agregando:
+
+git add <nombrearchivo>		Preparacion
+git commit -m ""			
 git push -u origin main
