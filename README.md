@@ -6,6 +6,7 @@ Párrafo con contenido para el archivo README
 Muestra como actualizar este repositorio y mantener contenido privado
 
 ## Orden de proyectos:
+
 </br>
 | Proyecto | Descripción |
 | :---: | :--- |
@@ -13,6 +14,7 @@ Muestra como actualizar este repositorio y mantener contenido privado
 | [todoEnUno_M2](https://github.com/miRepositorioGit/todoEnUno_M2.git) |Muestra la convivencia de tres capas de una arquitectura codificadas con dos diferentes tecnologías de lenguaje |
 | [getURL](https://github.com/miRepositorioGit/getURL.git) | Muestra como direccionar y desglozar una petición URL. Muestra como pre-procesar una petición con scripts .htaccess |
 </br>
+
 
 ### Community Channels
 
